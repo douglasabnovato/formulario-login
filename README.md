@@ -1,6 +1,6 @@
 ## Formulário animado com JS puro e CSS Animation
 
-## Atualização: 16 de janeiro de 2020 - 13:42
+## Atualização: 16 de janeiro de 2020 - 15:59
 ## Criação: 15 de janeiro de 2020
 ## Prática : @douglasabnovato
 
