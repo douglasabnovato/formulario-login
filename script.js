@@ -1,3 +1,7 @@
+/**
+ * Remover formulário do html 
+ * não mostrar rolagem enquanto o formulário está saindo da tela
+ */
 const btnLogin = document.querySelector(".btn-login");
 const form = document.querySelector("form");
 
@@ -18,3 +22,8 @@ form.addEventListener("animationend", event => {
         document.querySelector("body").style.overflow = "none";
     }
 });
+
+/**
+ * Remover formulário do html 
+ * não mostrar rolagem enquanto o formulário está saindo da tela
+ */
