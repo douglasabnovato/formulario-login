@@ -113,3 +113,19 @@ form .btn-login{
   }
 }
 /* aparição do form */
+
+/* sumir com o form quando clicar no botão */
+.form-hide{
+  animation: down 500ms;
+  animation-fill-mode: forwards;
+}
+
+@keyframes down{
+  from{
+    transform: translateY(0);
+  }
+  to{
+    transform: translateY(100vh);
+  }
+}
+/* sumir com o form quando clicar no botão */
