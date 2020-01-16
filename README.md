@@ -1,6 +1,18 @@
-# Formulário animado com JS puro e CSS Animation
+### Formulário animado com JS puro e CSS Animation
 
-## Desafios
+## Atualização: 30 de maio de 2019 - 15:25
+## Criação: 28 de maio de 2019
+## Prática : @douglasabnovato
+
+## Ferramentas : 
+
+![Git](/images/logo-git.png)
+![Github](/images/logo-github.png)
+![HTML/CSS/Javascript](/images/logo-html-css-js.jpeg)
+![Youtube](/images/logo-youtube.png)
+![Rocketseat](/images/logo-rocketseat.png)
+
+### Desafios
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
 - [x] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
@@ -10,8 +22,7 @@
 - [x] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [x] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
 
-## Animation
-
+### Animation
 
 8 propriedades:
 
@@ -36,7 +47,6 @@
 }
 ```
 
-
 podemos ter múltiplas animações no mesmo elemento
 
 ```css
@@ -45,15 +55,11 @@ podemos ter múltiplas animações no mesmo elemento
 }
 ```
 
-
-## References
+### References
 
 [CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-
 [Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
-
 [Site para criar animações](http://animista.net/play/basic/scale-up)
-
 [Site para criar cubic Bézier timming](https://matthewlein.com/tools/ceaser)<br/>
 
 :. De Mayk Brito | Formulário Animado com JS puro e CSS Animation - `https://www.youtube.com/watch?v=GykTLqODQuU`
