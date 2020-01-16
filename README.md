@@ -1,6 +1,6 @@
 ## Formulário animado com JS puro e CSS Animation
 
-## Atualização: 16 de janeiro de 2020 - 15:59
+## Atualização: 16 de janeiro de 2020 - 18:42
 ## Criação: 15 de janeiro de 2020
 ## Prática : @douglasabnovato
 
@@ -21,6 +21,10 @@
 - [x] 5. Adicionar um efeito diferente de timing para a saída do formulário
 - [x] 6. Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [x] 7. Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
+
+### Terminado
+![JS puro e CSS animation](/images/tela-1.jpg)
+>@douglasabnovato
 
 ### Animation
 
