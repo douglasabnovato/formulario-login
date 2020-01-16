@@ -1,4 +1,4 @@
-### Formulário animado com JS puro e CSS Animation
+## Formulário animado com JS puro e CSS Animation
 
 ## Atualização: 16 de janeiro de 2020 - 13:42
 ## Criação: 15 de janeiro de 2020
@@ -57,9 +57,9 @@ podemos ter múltiplas animações no mesmo elemento
 
 ### References
 
-[CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-[Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
-[Site para criar animações](http://animista.net/play/basic/scale-up)
+[CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)<br/>
+[Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)<br/>
+[Site para criar animações](http://animista.net/play/basic/scale-up)<br/>
 [Site para criar cubic Bézier timming](https://matthewlein.com/tools/ceaser)<br/>
 
 :. De Mayk Brito | Formulário Animado com JS puro e CSS Animation - `https://www.youtube.com/watch?v=GykTLqODQuU`
