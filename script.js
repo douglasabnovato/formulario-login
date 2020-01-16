@@ -1,13 +1,25 @@
-/**
- * Remover formulário do html 
- * não mostrar rolagem enquanto o formulário está saindo da tela
- */
 const btnLogin = document.querySelector(".btn-login");
 const form = document.querySelector("form");
 
 btnLogin.addEventListener("click", event => {
     event.preventDefault();
-    form.classList.add("form-hide");
+    
+    const fields = [...document.querySelectorAll(".input-block input")];
+
+    fields.forEach(field => {
+        if(field.value === "") form.classList.add("validate-error")
+    });
+
+    const formError = document.querySelector(".validate-error");
+    if(formError){
+        formError.addEventListener("animationend", event => {
+            if(event.animationName === "nono"){
+                formError.classList.remove("validate-error");
+            } 
+        });
+    }else{
+        form.classList.add("form-hide");
+    } 
 });
 
 form.addEventListener("animationstart", event => {
@@ -22,8 +34,3 @@ form.addEventListener("animationend", event => {
         document.querySelector("body").style.overflow = "none";
     }
 });
-
-/**
- * Remover formulário do html 
- * não mostrar rolagem enquanto o formulário está saindo da tela
- */
