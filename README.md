@@ -1,8 +1,10 @@
-## Formulário animado com JS puro e CSS Animation
+### Formulário animado com JS puro e CSS Animation
 
-## Atualização: 16 de janeiro de 2020 - 18:42
-## Criação: 15 de janeiro de 2020
-## Prática : @douglasabnovato
+### Criação: 15 de janeiro de 2020
+### Atualização: 16 de janeiro de 2020 - 18:42
+### Terminado: Sim
+### Publicado: https://douglasabnovato.github.io/youtuberocketseatformulario.github.io/
+### Prática : @douglasabnovato
 
 ## Ferramentas : 
 
