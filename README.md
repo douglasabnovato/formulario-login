@@ -76,16 +76,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 $ git clone https://github.com/douglasabnovato/formulario-login
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta da aplicação Front End
-$ cd web
-
-# Instale as dependências
-$ npm install
+$ cd formulario-login 
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+Open Live Server no arquivo index.html
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
