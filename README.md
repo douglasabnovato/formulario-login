@@ -123,6 +123,4 @@ Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript 
 
-#### Fonte
-
-.. De [Mayk Brito | Formulário Animado com JS puro e CSS Animation](https://www.youtube.com/watch?v=GykTLqODQuU)
+Fonte: De [Mayk Brito | Formulário Animado com JS puro e CSS Animation](https://www.youtube.com/watch?v=GykTLqODQuU)
