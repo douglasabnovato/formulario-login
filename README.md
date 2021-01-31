@@ -7,10 +7,10 @@
 </h4> 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasabnovato?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasabnovato">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasabnovato/formulario-login?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasabnovato/formulario-login">
   <a href="https://www.twitter.com/douglasabnovato/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%douglasabnovato">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%douglasabnovato%2Fformulario-login">
   </a>
 </p>
 
@@ -54,6 +54,10 @@ Uma aplicação web responsiva, desenvolvida em html, css e javascript.
 - [HTML][html]
 - [Git][git]
 - [Github][github] 
+- [CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)<br/>
+- [Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)<br/>
+- [Site para criar animações](http://animista.net/play/basic/scale-up)<br/>
+- [Site para criar cubic Bézier timming](https://matthewlein.com/tools/ceaser)
 
 ## 🚀 Como executar o projeto
 
@@ -119,35 +123,6 @@ Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript 
 
-### 
+#### Fonte
 
-#### Objetivo
-
-
-#### Ferramentas / Tecnologias
-
-
-
-
-#### 
-
-#### Referências
-
-[CSS Animation Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)<br/>
-[Animation Timing Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)<br/>
-[Site para criar animações](http://animista.net/play/basic/scale-up)<br/>
-[Site para criar cubic Bézier timming](https://matthewlein.com/tools/ceaser)
-
-#### Detalhes
-
-- Criação: 15 de janeiro de 2020
-- Atualização: 16 de janeiro de 2020
-- Terminado: Sim 
-- Publicado: [Formulário de Login Animado](https://douglasabnovato.github.io/youtuberocketseatformulario.github.io/)
-
-#### Publicado
-
-![Formulário de Login Animado](/images/tela-1.jpg)<br/>
-
-:. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)<br/>
 .. De [Mayk Brito | Formulário Animado com JS puro e CSS Animation](https://www.youtube.com/watch?v=GykTLqODQuU)
